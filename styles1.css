@@ -1,0 +1,76 @@
+.navbar{
+    width: 1360px;
+    position: relative;
+height: 88px;
+top: 40px;
+left: 40px;
+padding: 16px 32px 16px 32px;
+gap: 0px;
+border-radius: 16px 0px 0px 0px;
+border: 1px 0px 0px 0px;
+justify-content: space-between;
+opacity: 0px;
+border:1px solid rgb(88, 88, 8);
+margin-left:auto;
+margin-right:auto;
+border-radius: 1vh;
+background-color: #483f0c;
+}
+.navbar>img{
+    position: absolute;
+    width: 164.8px;
+height: 56px;
+gap: 8.51px;
+opacity: 0px;
+top:26px;
+bottom:16px;
+left:32px;
+}
+div.menu{
+    position: absolute;
+    width: 807px;
+    height: 55px;
+    gap: 32px;
+    opacity: 0px;
+    top:30px;    
+left:575px;
+display: flex;
+}
+.menu>ul{
+    list-style-type: none;
+    display: flex;
+    
+}
+.menu>ul>li>a{
+    text-decoration: none;
+    
+color:white;   
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 17px;
+font-weight: 500;
+line-height: 16.5px;
+text-align: left;
+width: 162.2px;
+height: 48.5px;
+padding: 15px 24.2px 16.5px 24px;
+gap: 10.55px;
+border-radius: 16px 0px 0px 0px;
+opacity: 0px;
+
+}
+.menu>button{
+    width: 187px;
+height: 55px;
+gap: 0px;
+border-radius: 10px 0px 0px 0px;
+opacity: 0px;
+border-radius: 1vh;
+background-color: #f9d326;
+}
+.menu>button>a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
