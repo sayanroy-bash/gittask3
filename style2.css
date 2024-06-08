@@ -1,0 +1,50 @@
+.class {
+    position: absolute;
+   
+    
+    color: rgb(243, 240, 240);
+    width: 1024px;
+    height: 175px;
+    top: 612px;
+    left: 208px;
+    gap: 40px;
+    opacity: 0px;
+
+
+
+}
+
+.class>button {
+    width: 175px;
+    height:55px;
+    gap: 0px;
+    border-radius: 30px;
+    opacity: 0px;
+    margin-left: 40%;
+    margin-top: 3%;
+  
+    /* width: 91px;
+    height: 27px; */
+    gap: 0px;
+    opacity: 0px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 27.11px;
+    text-align: center;
+    background: linear-gradient(94.62deg, #FECC00 -2.53%, #FEA800 102.53%);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 24px;
+    padding-right: 24px;
+
+
+
+
+
+
+}
+
+.class p {
+    text-align: center;
+}
